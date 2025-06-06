@@ -1,6 +1,6 @@
 # Financial Statements Dashboard
 
-### 📊 [Dashboard Link]([https://app.powerbi.com/view?r=eyJrIjoiNTQzNGFmMDktMjZiOC00YTkwLWI5NjEtMGVhNzIwYmI0MDM2IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiYzczZTA1Y2ItOTZmMS00OTQ5LTkwNjgtMTE0ZDEzNjhiMmQ4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
+### 📊 [Dashboard Link]([https://app.powerbi.com/view?r=eyJrIjoiNTQzNGFmMDktMjZiOC00YTkwLWI5NjEtMGVhNzIwYmI0MDM2IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9])
 
 ## 📌 About this Dashboard
 Created a clean and focused Power BI dashboard to analyze a company's financial performance for the FP20 Challenge. Highlighted key insights like a -8.07% Net Profit Ratio, driven by high recurring expenses in administration and sales. Applied skills in YOY KPI analysis, Budget vs Actuals tracking, and financial storytelling using ZoomCharts. Also used Figma for the first time to design a neat, user-friendly layout. This project strengthened my understanding of financial metrics and dashboard design principles.
